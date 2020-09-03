@@ -1,0 +1,915 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="N1 BiH">
+    <display-name lang="hr">N1 BiH</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="BHT 1">
+    <display-name lang="hr">BHT 1</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="BHT HD">
+    <display-name lang="hr">BHT HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="RTRS">
+    <display-name lang="hr">RTRS</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Nova BH">
+    <display-name lang="hr">Nova BH</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="NOVA S Test">
+    <display-name lang="hr">NOVA S Test</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Hayat FHD">
+    <display-name lang="hr">Hayat FHD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="O Kanal">
+    <display-name lang="hr">O Kanal</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Face TV HD">
+    <display-name lang="hr">Face TV HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Al Jazeera Balkans">
+    <display-name lang="hr">Al Jazeera Balkans</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="TV Sarajevo">
+    <display-name lang="hr">TV Sarajevo</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Alfa TV Sarajevo">
+    <display-name lang="hr">Alfa TV Sarajevo</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="OBN">
+    <display-name lang="hr">OBN</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="BN">
+    <display-name lang="hr">BN</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="RTVHB TEST">
+    <display-name lang="hr">RTVHB TEST</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="HRT 1 FHD">
+    <display-name lang="hr">HRT 1 FHD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="HRT 2 FHD">
+    <display-name lang="hr">HRT 2 FHD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="HRT 3 FHD">
+    <display-name lang="hr">HRT 3 FHD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="HRT 4 FHD">
+    <display-name lang="hr">HRT 4 FHD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Media BH">
+    <display-name lang="hr">Pink Media BH</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Nova TV HD">
+    <display-name lang="hr">Nova TV HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="RTL">
+    <display-name lang="hr">RTL</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="RTL 2">
+    <display-name lang="hr">RTL 2</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Prva">
+    <display-name lang="hr">Prva</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Prva Plus">
+    <display-name lang="hr">Prva Plus</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="B92">
+    <display-name lang="hr">B92</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="RTV Zenica">
+    <display-name lang="hr">RTV Zenica</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="ATV">
+    <display-name lang="hr">ATV</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Posavina TV">
+    <display-name lang="hr">Posavina TV</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="City TV (Test)">
+    <display-name lang="hr">City TV (Test)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="TV KAKANJ">
+    <display-name lang="hr">NTV KAKANJ</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="MTV Igman">
+    <display-name lang="hr">MTV Igman</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Televizija 5">
+    <display-name lang="hr">Televizija 5</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="HIT Brcko TV">
+    <display-name lang="hr">HIT Brcko TV</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="TK Tuzla">
+    <display-name lang="hr">TK Tuzla</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="RTV Sana">
+    <display-name lang="hr">RTV Sana</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Hema TV (Test)">
+    <display-name lang="hr">Hema TV (Test)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Federalna TV">
+    <display-name lang="hr">Federalna TV</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="RTL Living">
+    <display-name lang="hr">RTL Living</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="N1 Hr">
+    <display-name lang="hr">N1 Hr</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Plus">
+    <display-name lang="hr">Pink Plus</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Extra">
+    <display-name lang="hr">Pink Extra</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Prva World">
+    <display-name lang="hr">Prva World</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Prva Kick">
+    <display-name lang="hr">Prva Kick</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Happy TV">
+    <display-name lang="hr">Happy TV</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="RTRS Plus">
+    <display-name lang="hr">RTRS Plus</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Hayat Plus">
+    <display-name lang="hr">Hayat Plus</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Valentino TV">
+    <display-name lang="hr">Valentino TV</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Izvorna TV">
+    <display-name lang="hr">Izvorna TV</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="hr">FOX</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="FOX Life">
+    <display-name lang="hr">FOX Life</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="FOX Crime">
+    <display-name lang="hr">FOX Crime</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="FOX Movies">
+    <display-name lang="hr">FOX Movies</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="CineStar TV">
+    <display-name lang="hr">CineStar TV</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="CineStar Fantasy">
+    <display-name lang="hr">CineStar Fantasy</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="TV1000">
+    <display-name lang="hr">TV1000</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="hr">AXN</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Diva">
+    <display-name lang="hr">Diva</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Comedy Central Extra">
+    <display-name lang="hr">Comedy Central Extra</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Cinema TV">
+    <display-name lang="hr">Cinema TV</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="AXN Spin">
+    <display-name lang="hr">AXN Spin</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Western">
+    <display-name lang="hr">Pink Western</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Action">
+    <display-name lang="hr">Pink Action</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="hr">AMC</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Sci Fi">
+    <display-name lang="hr">Sci Fi</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pikaboo HD">
+    <display-name lang="hr">Pikaboo HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Vavoom HD">
+    <display-name lang="hr">Vavoom HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Minimax">
+    <display-name lang="hr">Minimax</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Nickelodeon (HR)">
+    <display-name lang="hr">Nickelodeon (HR)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="RTL Kockica">
+    <display-name lang="hr">RTL Kockica</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="hr">Disney Junior</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="hr">Disney Channel</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="hr">Cartoon Network</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Hayatovci">
+    <display-name lang="hr">Hayatovci</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Super RTL">
+    <display-name lang="hr">Super RTL</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="BabyTV">
+    <display-name lang="hr">BabyTV</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="hr">Boomerang</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Jim Jam">
+    <display-name lang="hr">Jim Jam</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name lang="hr">Nick Jr.</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Kids">
+    <display-name lang="hr">Pink Kids</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="hr">Discovery Channel</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="hr">Animal Planet</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="hr">National Geographic</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Viasat Explorer">
+    <display-name lang="hr">Viasat Explorer</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Viasat History">
+    <display-name lang="hr">Viasat History</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Viasat Nature">
+    <display-name lang="hr">Viasat Nature</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="24Kitchen (INT)">
+    <display-name lang="hr">24Kitchen</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="History Channel">
+    <display-name lang="hr">History Channel</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="CBS Reality">
+    <display-name lang="hr">CBS Reality</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Travel Channel">
+    <display-name lang="hr">Travel Channel</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="hr">TLC</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Lov i Ribolov">
+    <display-name lang="hr">Lov i Ribolov</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="ID Backup">
+    <display-name lang="hr">ID Backup</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Nat Geo Wild">
+    <display-name lang="hr">Nat Geo Wild</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Crime Investigation">
+    <display-name lang="hr">Crime Investigation</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="E!">
+    <display-name lang="hr">E!</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Nova Sport (TEST)">
+    <display-name lang="hr">Nova Sport (TEST)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Sport Klub 1">
+    <display-name lang="hr">Sport Klub 1</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Sport Klub 2">
+    <display-name lang="hr">Sport Klub 2</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Sport Klub 3">
+    <display-name lang="hr">Sport Klub 3</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="SK 4 (SR)">
+    <display-name lang="hr">SK 4 (SR)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="SK 5 (SR)">
+    <display-name lang="hr">SK 5 (SR)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="SK 6 (SR)">
+    <display-name lang="hr">SK 6 (SR)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="SK 7 (SR)">
+    <display-name lang="hr">SK 7 (SR)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="SK 8 (SR)">
+    <display-name lang="hr">SK 8 (SR)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="SK 9 (SR)">
+    <display-name lang="hr">SK 9 (SR)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="SK 10 (SR)">
+    <display-name lang="hr">SK 10 (SR)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="SK 1 (HR)">
+    <display-name lang="hr">SK 1 (HR)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="SK 4K">
+    <display-name lang="hr">SK 4K</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="SK HD">
+    <display-name lang="hr">SK HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="SK Golf HD">
+    <display-name lang="hr">SK Golf HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Fight Channel">
+    <display-name lang="hr">Fight Channel</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="SK Esports">
+    <display-name lang="hr">SK Esports</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Arena Sport 1 (BH)">
+    <display-name lang="hr">Arena Sport 1 (BH)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Arena Sport 1 (HR)">
+    <display-name lang="hr">Arena Sport 1 (HR)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Arena Sport 1 (SR)">
+    <display-name lang="hr">Arena Sport 1 (SR)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Arena Sport 2">
+    <display-name lang="hr">Arena Sport 2</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Arena Sport 3">
+    <display-name lang="hr">Arena Sport 3</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Arena Sport 4">
+    <display-name lang="hr">Arena Sport 4</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Eurosport 1 HD">
+    <display-name lang="hr">Eurosport 1 HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Eurosport 2 HD">
+    <display-name lang="hr">Eurosport 2 HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Extreme Sports">
+    <display-name lang="hr">Extreme Sports</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Motorvision TV HD">
+    <display-name lang="hr">Motorvision TV HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Grand International">
+    <display-name lang="hr">Grand International</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Grand narodna televizija 2">
+    <display-name lang="hr">Grand narodna televizija 2</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="IDJTV HD">
+    <display-name lang="hr">IDJTV HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="DM Sat">
+    <display-name lang="hr">DM Sat</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="CMC">
+    <display-name lang="hr">CMC</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="BN Music HD">
+    <display-name lang="hr">BN Music HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Music">
+    <display-name lang="hr">Pink Music</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="K::CN Music 2">
+    <display-name lang="hr">K::CN Music 2</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Hayat Folk">
+    <display-name lang="hr">Hayat Folk</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Hayat Music">
+    <display-name lang="hr">Hayat Music</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="VH1 Europe">
+    <display-name lang="hr">VH1 Europe</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="hr">MTV</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="K::CN Svet +3 (W2)">
+    <display-name lang="hr">K::CN Svet +3 (W2)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Balkanika">
+    <display-name lang="hr">Balkanika</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="VH1 Classic">
+    <display-name lang="hr">VH1 Classic</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="MTV Dance">
+    <display-name lang="hr">MTV Dance</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="MTV Hits">
+    <display-name lang="hr">MTV Hits</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="MTV Rocks">
+    <display-name lang="hr">MTV Rocks</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Mezzo">
+    <display-name lang="hr">Mezzo</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Sevdah TV">
+    <display-name lang="hr">Sevdah TV</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="RTL (DE)">
+    <display-name lang="hr">RTL (DE)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pro7">
+    <display-name lang="hr">Pro7</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="VOX">
+    <display-name lang="hr">VOX</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="hr">CNN</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="BBC World News">
+    <display-name lang="hr">BBC World News</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="hr">Bloomberg</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Rai Uno">
+    <display-name lang="hr">Rai Uno</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="TV5 Monde">
+    <display-name lang="hr">TV5 Monde</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="TRT Avaz">
+    <display-name lang="hr">TRT Avaz</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="EuroNews">
+    <display-name lang="hr">EuroNews</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Russia Today">
+    <display-name lang="hr">Russia Today</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Deutsche Welle">
+    <display-name lang="hr">Deutsche Welle</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="RTL 2 (DE)">
+    <display-name lang="hr">RTL 2 (DE)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="NTV">
+    <display-name lang="hr">NTV</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Dorcel HD">
+    <display-name lang="hr">Dorcel HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Hustler">
+    <display-name lang="hr">Hustler</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Brazzers TV Europe">
+    <display-name lang="hr">Brazzers TV Europe</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Dusk!">
+    <display-name lang="hr">Dusk!</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Playboy TV">
+    <display-name lang="hr">Playboy TV</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Hayat HD">
+    <display-name lang="hr">Hayat HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="FOX Life HD (INT)">
+    <display-name lang="hr">FOX Life HD (INT)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="FOX Crime HD (INT)">
+    <display-name lang="hr">FOX Crime HD (INT)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="FOX HD (INT)">
+    <display-name lang="hr">FOX HD (INT)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="FOX Movies HD (INT)">
+    <display-name lang="hr">FOX Movies HD (INT)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="SHORTSTV HD">
+    <display-name lang="hr">SHORTSTV HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Epic Drama HD">
+    <display-name lang="hr">Epic Drama HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Arena Sport 1 HD (BH)">
+    <display-name lang="hr">Arena Sport 1 HD (BH)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Arena Sport 2 HD (BH)">
+    <display-name lang="hr">Arena Sport 2 HD (BH)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Arena Sport 3 HD (BH)">
+    <display-name lang="hr">Arena Sport 3 HD (BH)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Arena Sport 4 HD (BH)">
+    <display-name lang="hr">Arena Sport 4 HD (BH)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Nickelodeon HD">
+    <display-name lang="hr">Nickelodeon HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="hr">Animal Planet HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="National Geographic HD">
+    <display-name lang="hr">National Geographic HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="24Kitchen HD (INT)">
+    <display-name lang="hr">24Kitchen HD (INT)</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="BBC Earth HD">
+    <display-name lang="hr">BBC Earth HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="hr">Nat Geo Wild HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="History HD">
+    <display-name lang="hr">History HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="History 2 HD">
+    <display-name lang="hr">History 2 HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Travel Channel HD">
+    <display-name lang="hr">Travel Channel HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="FTV TV HD">
+    <display-name lang="hr">FTV TV HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Qyou HD">
+    <display-name lang="hr">Qyou HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="MTV Live HD">
+    <display-name lang="hr">MTV Live HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Trace Urban HD">
+    <display-name lang="hr">Trace Urban HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="iConcerts HD">
+    <display-name lang="hr">iConcerts HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Hustler HD">
+    <display-name lang="hr">Hustler HD</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="HBO Adria">
+    <display-name lang="hr">HBO Adria</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="hr">HBO 2</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="HBO 3">
+    <display-name lang="hr">HBO 3</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Cinemax 1">
+    <display-name lang="hr">Cinemax 1</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Cinemax 2">
+    <display-name lang="hr">Cinemax 2</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="CineStar Premiere 1">
+    <display-name lang="hr">CineStar Premiere 1</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="CineStar Premiere 2">
+    <display-name lang="hr">CineStar Premiere 2 </display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Comedy">
+    <display-name lang="hr">Pink Comedy</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Romance">
+    <display-name lang="hr">Pink Romance</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink World Cinema">
+    <display-name lang="hr">Pink World Cinema</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Classic">
+    <display-name lang="hr">Pink Classic</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Serije">
+    <display-name lang="hr">Pink Serije</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Premium">
+    <display-name lang="hr">Pink Premium</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Movies">
+    <display-name lang="hr">Pink Movies</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Film">
+    <display-name lang="hr">Pink Film</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Thriller">
+    <display-name lang="hr">Pink Thriller</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Crime &amp; Mystery">
+    <display-name lang="hr">Pink Crime &amp; Mystery</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Soap">
+    <display-name lang="hr">Pink Soap</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Sci-Fi &amp; Fantasy">
+    <display-name lang="hr">Pink Sci-Fi &amp; Fantasy</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Horror">
+    <display-name lang="hr">Pink Horror</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Family">
+    <display-name lang="hr">Pink Family</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Pedia">
+    <display-name lang="hr">Pink Pedia</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink super kids">
+    <display-name lang="hr">Pink super kids</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Zabava">
+    <display-name lang="hr">Pink Zabava</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink World">
+    <display-name lang="hr">Pink World</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Reality">
+    <display-name lang="hr">Pink Reality</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Show">
+    <display-name lang="hr">Pink Show</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Style">
+    <display-name lang="hr">Pink Style</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Fashion">
+    <display-name lang="hr">Pink Fashion</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Kuvar">
+    <display-name lang="hr">Pink Kuvar</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Ha ha">
+    <display-name lang="hr">Ha ha</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Lol">
+    <display-name lang="hr">Lol</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Bravo Music">
+    <display-name lang="hr">Bravo Music</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Folk">
+    <display-name lang="hr">Pink Folk</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Folk 2">
+    <display-name lang="hr">Pink Folk 2</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Music 2">
+    <display-name lang="hr">Pink Music 2</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Hits">
+    <display-name lang="hr">Pink Hits</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Hits 2">
+    <display-name lang="hr">Pink Hits 2</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink n roll">
+    <display-name lang="hr">Pink n roll</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+  <channel id="Pink Koncert">
+    <display-name lang="hr">Pink Koncert</display-name>
+    <url>http://www.epg.telemach.ba.E</url>
+  </channel>
+</tv>
